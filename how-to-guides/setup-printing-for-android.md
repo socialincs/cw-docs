@@ -52,11 +52,11 @@ Visit your orders page. Select an order, under the action select bar, select pri
 
 #### Contact Us
 
-We have successfully setup 100's of printers, there is a good chance we can save you lots of headaches so please don't hesitate to contact us. Email: support@loqalli.com
+We have successfully setup 100's of printers, there is a good chance we can save you lots of headaches so please don't hesitate to contact us.
 
 #### Sides being cut-off
 
-Start by reducing either your Paper Scale Factor to 1.7 and test print again. Adjust until it fits.
+Start by reducing either your Paper Scale Factor to 1.7 and test print again.  Adjust until it fits.
 
 #### Invalid API Key
 
@@ -69,4 +69,6 @@ Check your internet connection or try again shortly
 #### Printing not working even though everything is set up correctly
 
 Please ensure that Android detects your printer. Try restarting your device. Try printing to your printer from other programs on your PC such as your browser.
+
+
 

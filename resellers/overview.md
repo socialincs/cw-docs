@@ -51,13 +51,13 @@ For example, the admin interface can be located at "admin.example.com". All your
 
 ### Support E-mail Address
 
-We require one support email address to white-label all support and system emails sent to customers. This includes order notification e-mails. If this is not provided, your customers will receive emails from "support@cloudwaitress.com ".
+We require one support email address to white-label all support and system emails sent to customers. This includes order notification e-mails. If this is not provided, your customers will receive emails from "support@loqalli.com ".
 
 Please note, Gmail, Hotmail and other e-mail hosting providers will not work for this. A custom domain email address is mandatory.
 
 ### Billing System \(Optional\)
 
-You will need a way to bill your clients as their subscription is not managed by us. Consider using software such as [https://www.chargebee.com](https://www.chargebee.com). We provide an integration with them for resellers to automate client billing.  Please note that extra fees and charges apply.
+You will need a way to bill your clients as their subscription is not managed by us. Consider using software such as [https://www.chargebee.com](https://www.chargebee.com). We provide an integration with them for resellers to automate client billing. Please note that extra fees and charges apply.
 
 ## Setup Process
 
